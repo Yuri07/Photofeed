@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712552015505",
+    "firebase_url": "https://myphotofeed-90feb.firebaseio.com",
+    "project_id": "myphotofeed-90feb",
+    "storage_bucket": "myphotofeed-90feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712552015505:android:786cff3bdf52c5e5",
+        "android_client_info": {
+          "package_name": "edu.edx.yuri.photofeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712552015505-i4vpi8ffvh0jv0jtcb66j78g3q61qgaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.edx.yuri.photofeed",
+            "certificate_hash": "a0d96ea6addbdcbf0bcae16251089799c12e5780"
+          }
+        },
+        {
+          "client_id": "712552015505-ovev6it1q96qk16eeso1gcn58rlviohe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaCmBGIWYd4cpt3lo-TGfMA2f9_ZHXeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712552015505-ovev6it1q96qk16eeso1gcn58rlviohe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
